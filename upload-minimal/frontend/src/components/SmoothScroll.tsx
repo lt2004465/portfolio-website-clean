@@ -1,7 +1,3 @@
-interface SmoothScrollProps {
-  children: React.ReactNode;
-}
-
-export default function SmoothScroll({ children }: SmoothScrollProps) {
-  return <>{children}</>;
+export default function SmoothScroll() {
+  return null;
 }
